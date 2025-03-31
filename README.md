@@ -8,7 +8,7 @@ Experienced with Java, Python, and C++—I focus on solving problems with clean,
 
 Passionate about network security, penetration testing, and ethical hacking.
 
-When I'm not coding, I like to learn about the behavior and habitats of lions.
+When I'm not coding, I like to help the world become a better place.
 
 What I’m working on:
 Building secure systems and diving into AI/ML projects.
