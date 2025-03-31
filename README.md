@@ -1,29 +1,27 @@
-# 👋 Hi, I’m @TanakaShumba
+Hey, I'm Tanaka Shumba.
+Cybersecurity Professional | AI Enthusiast | Software Developer
 
-## 👀 I’m interested in ...
-- Cybersecurity
-- Artificial Intelligence
-- Software Development
-- Open Source Projects
+A bit about me:
+Currently studying Cybersecurity and AI at the Master's level.
 
-## 🌱 I’m currently learning ...
-- Advanced Cybersecurity Techniques
-- Artificial Intelligence and Machine Learning
-- Cloud Computing
+Experienced with Java, Python, and C++—I focus on solving problems with clean, efficient code.
 
-## 💞️ I’m looking to collaborate on ...
-- Cybersecurity Projects
-- AI/ML Projects
-- Open Source Contributions
+Passionate about network security, penetration testing, and ethical hacking.
 
-## 📫 How to reach me ...
-- Email: tanakashumba04@gmail.com
-- LinkedIn: [Tanaka Shumba](https://www.linkedin.com/in/tanakashumba-/)
-- GitHub: [TanakaShumba](https://github.com/TanakaShumba)
+When I'm not coding, I like to learn about the behavior and habitats of lions.
 
-## 😄 Pronouns: ...
-- He/Him
+What I’m working on:
+Building secure systems and diving into AI/ML projects.
 
-## ⚡ Fun fact: ...
-- I love lions and enjoy learning about their behavior and habitat.
+Currently exploring cloud security and digital forensics.
+
+Looking to collaborate on:
+Cybersecurity projects, AI/ML applications, or any open-source work.
+
+Reach me at:
+📧 tanakashumba04@gmail.com
+
+🌐 LinkedIn
+
+💻 GitHub
 
