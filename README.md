@@ -12,7 +12,7 @@ Detail oriented and analytical Cybersecurity professional with a B.S. in Cyberse
 
 ## Education
 - **Troy University** – M.S., Computer Science – Cybersecurity | Expected 05/2026  
-- **Troy University** – B.S. Cybersecurity | 12/2023  
+- **Troy University** – B.S., Cybersecurity | 12/2023  
 
 ---
 
@@ -36,47 +36,72 @@ Detail oriented and analytical Cybersecurity professional with a B.S. in Cyberse
 ## Projects
 
 ### [Python Network Scanner](https://github.com/TanakaShumba/python-network-scanner)  
-- Scans networks to identify live hosts and open ports.  
+- Scans networks to identify live hosts, open ports, and potential vulnerabilities.  
+- Demonstrates practical networking and security analysis skills.
 
 ### [VoIP Traffic Analyzer](https://github.com/TanakaShumba/voip-traffic-analyzer)  
-- Captures and analyzes VoIP RTP packets safely for educational use.  
+- Captures and decodes VoIP RTP packets safely for educational purposes.  
+- Helps understand VoIP protocols and identify anomalies or potential threats.
 
 ### [Secure Hospital System](https://github.com/TanakaShumba/secure-hospital-system)  
-- Python-based secure hospital management system.  
+- Python-based secure hospital management system focusing on patient data protection.  
+- Implements confidentiality, integrity, and access control best practices.
 
 ### [Cybersecurity Lab Series](https://github.com/TanakaShumba/cybersecurity-lab-series)  
-- Hands-on labs for offensive and defensive cybersecurity practices.  
+- Collection of hands-on labs for offensive and defensive cybersecurity exercises.  
+- Includes vulnerability scanning, network traffic analysis, and simulated attacks.
 
-### [Simple IDS Simulation](https://github.com/TanakaShumba/simple-ids)  
-- Simulates an intrusion detection system for learning purposes.  
+### [Simple IDS](https://github.com/TanakaShumba/simple-ids)  
+- Simulates an intrusion detection system for detecting suspicious activity.  
+- Ideal for learning alerting mechanisms and IDS configurations.
 
 ### [Basic Pen Test](https://github.com/TanakaShumba/basic-pen-test)  
-- Educational penetration testing and vulnerability scanning.  
+- Simple educational penetration testing script in Python.  
+- Demonstrates ethical hacking, scanning, and reporting vulnerabilities.
 
 ### [Cloud Security Checker](https://github.com/TanakaShumba/cloud-security-checker)  
-- Checks cloud configurations for security misconfigurations.  
+- Checks cloud service configurations for common security misconfigurations.  
+- Enhances awareness of cloud security best practices.
 
 ### [Ethical Hacking Sim](https://github.com/TanakaShumba/ethical-hacking-sim)  
-- Simulates ethical hacking techniques such as port scanning.  
+- Simulates ethical hacking techniques like port scanning and banner grabbing.  
+- Focused on educational use and understanding real-world hacking scenarios.
 
 ### [Malware Analyzer](https://github.com/TanakaShumba/malware-analyzer)  
-- Simulates analysis of suspicious file behaviors.  
+- Simulates analysis of suspicious file behaviors to detect malware patterns.  
+- Highlights threat identification techniques in a safe environment.
 
 ### [Nmap Threat Model](https://github.com/TanakaShumba/nmap-threat-model)  
+- Models potential threats using Nmap scans for educational purposes.  
+- Helps understand how attackers gather network information.
 
 ### [Security Awareness Mini Course](https://github.com/TanakaShumba/security-awareness-mini-course)  
+- A short course on cybersecurity best practices for users and beginners.  
+- Covers phishing, password hygiene, and safe internet behavior.
 
 ### [Cloud Misconfig Scanner](https://github.com/TanakaShumba/cloud-misconfig-scanner)  
+- Tool to detect misconfigurations in cloud environments.  
+- Helps improve cloud deployment security.
 
 ### [Password Security Demo](https://github.com/TanakaShumba/password-security-demo)  
+- Demonstrates password strength checking and hashing techniques.  
+- Educates users on creating secure credentials.
 
 ### [Windows Event Logger Analyzer](https://github.com/TanakaShumba/windows-event-logger-analyzer)  
+- Analyzes Windows Event Logs for anomalies or security incidents.  
+- Useful for basic system auditing and monitoring.
 
 ### [SOC Alert Triage](https://github.com/TanakaShumba/soc-alert-triage)  
+- Tool for sorting and prioritizing security alerts in a SOC environment.  
+- Focuses on improving incident response efficiency.
 
 ### [Phishing Email Detector](https://github.com/TanakaShumba/phishing-email-detector)  
+- Detects phishing emails using keyword and header analysis.  
+- Aims to reduce human error in email security.
 
 ### [SIEM Log Parser](https://github.com/TanakaShumba/siem-log-parser)  
+- Parses SIEM logs for important events and anomalies.  
+- Supports learning about log management and automated alerting.
 
 ---
 
