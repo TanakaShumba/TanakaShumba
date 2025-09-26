@@ -6,13 +6,13 @@
 ---
 
 ## Professional Summary
-Detail-oriented and analytical Cybersecurity professional with a B.S. in Cybersecurity and currently pursuing an M.S. in Computer Science – Cybersecurity. Experienced in IT support, threat detection, and incident response with proficiency in Python, Java, C++, and network analysis tools. Skilled at troubleshooting systems, developing secure applications, and communicating technical information effectively. Passionate about applying hands-on security expertise in dynamic environments.
+Detail oriented and analytical Cybersecurity professional with a B.S. in Cybersecurity and currently pursuing an M.S. in Computer Science – Cybersecurity. Experienced in IT support, threat detection, and incident response with proficiency in Python, Java, C++, and network analysis tools. Skilled at troubleshooting systems, developing secure applications, and communicating technical information effectively. Passionate about applying hands-on security expertise in dynamic environments.
 
 ---
 
 ## Education
 - **Troy University** – M.S., Computer Science – Cybersecurity | Expected 05/2026  
-- **Troy University** – B.S., Cybersecurity | 12/2023  
+- **Troy University** – B.S. Cybersecurity | 12/2023  
 
 ---
 
@@ -35,41 +35,48 @@ Detail-oriented and analytical Cybersecurity professional with a B.S. in Cyberse
 
 ## Projects
 
-### 1. [Python Network Scanner](https://github.com/TanakaShumba/python-network-scanner)  
-- Conducts network scanning to identify live hosts and open ports.  
-- Demonstrates practical networking and security analysis.
+### [Python Network Scanner](https://github.com/TanakaShumba/python-network-scanner)  
+- Scans networks to identify live hosts and open ports.  
 
-### 2. [VoIP Traffic Analyzer](https://github.com/TanakaShumba/voip-traffic-analyzer)  
-- Captures and decodes VoIP traffic using Python (Scapy).  
-- Identifies potential threats in VoIP communications.
+### [VoIP Traffic Analyzer](https://github.com/TanakaShumba/voip-traffic-analyzer)  
+- Captures and analyzes VoIP RTP packets safely for educational use.  
 
-### 3. [Secure Hospital System](https://github.com/TanakaShumba/secure-hospital-system)  
-- Developed a secure hospital management system in Python.  
-- Focused on confidentiality, integrity, and access control.
+### [Secure Hospital System](https://github.com/TanakaShumba/secure-hospital-system)  
+- Python-based secure hospital management system.  
 
-### 4. [Cybersecurity Lab Series](https://github.com/TanakaShumba/cybersecurity-lab-series)  
-- Conducted offensive and defensive security labs.  
-- Hands-on practice with vulnerability scanning and traffic analysis.
+### [Cybersecurity Lab Series](https://github.com/TanakaShumba/cybersecurity-lab-series)  
+- Hands-on labs for offensive and defensive cybersecurity practices.  
 
-### 5. [Simple IDS Simulation](https://github.com/TanakaShumba/simple-ids-simulation)  
-- Simulated intrusion detection system for educational purposes.  
-- Demonstrates alerting on suspicious network activity.
+### [Simple IDS Simulation](https://github.com/TanakaShumba/simple-ids)  
+- Simulates an intrusion detection system for learning purposes.  
 
-### 6. [Basic Penetration Test Script](https://github.com/TanakaShumba/basic-pen-test)  
-- Automated simple penetration testing tasks using Python.  
-- Highlights ethical hacking and vulnerability discovery skills.
+### [Basic Pen Test](https://github.com/TanakaShumba/basic-pen-test)  
+- Educational penetration testing and vulnerability scanning.  
 
-### 7. [Cloud Security Config Checker](https://github.com/TanakaShumba/cloud-security-checker)  
-- Simulates checking cloud service configurations for security misconfigurations.  
-- Emphasizes cloud security awareness.
+### [Cloud Security Checker](https://github.com/TanakaShumba/cloud-security-checker)  
+- Checks cloud configurations for security misconfigurations.  
 
-### 8. [Ethical Hacking Simulation](https://github.com/TanakaShumba/ethical-hacking-sim)  
-- Port scanning and banner grabbing simulation in Python.  
-- Demonstrates practical ethical hacking techniques.
+### [Ethical Hacking Sim](https://github.com/TanakaShumba/ethical-hacking-sim)  
+- Simulates ethical hacking techniques such as port scanning.  
 
-### 9. [Malware Behavior Analyzer](https://github.com/TanakaShumba/malware-analyzer)  
+### [Malware Analyzer](https://github.com/TanakaShumba/malware-analyzer)  
 - Simulates analysis of suspicious file behaviors.  
-- Highlights malware detection skills and threat awareness.
+
+### [Nmap Threat Model](https://github.com/TanakaShumba/nmap-threat-model)  
+
+### [Security Awareness Mini Course](https://github.com/TanakaShumba/security-awareness-mini-course)  
+
+### [Cloud Misconfig Scanner](https://github.com/TanakaShumba/cloud-misconfig-scanner)  
+
+### [Password Security Demo](https://github.com/TanakaShumba/password-security-demo)  
+
+### [Windows Event Logger Analyzer](https://github.com/TanakaShumba/windows-event-logger-analyzer)  
+
+### [SOC Alert Triage](https://github.com/TanakaShumba/soc-alert-triage)  
+
+### [Phishing Email Detector](https://github.com/TanakaShumba/phishing-email-detector)  
+
+### [SIEM Log Parser](https://github.com/TanakaShumba/siem-log-parser)  
 
 ---
 
